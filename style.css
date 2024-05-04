@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Be Vietnam Pro", sans-serif;
+
+}
+
+/* section-1 */
+.pos {
+    position: relative;
+}
+
+.cont-1 {
+    margin-top: 40px;
+}
+
+.f1 {
+    color: black;
+    text-shadow: 0px 3px 3px gray;
+}
+
+.f2 {
+    color: #424251;
+    text-shadow: 0px 1px 2px #424251;
+}
+
+.img-1 {
+    margin-top: 20px;
+    margin-left: -50px;
+
+}
+
+/* section-2 */
+
+
+.f3 {
+    color: black;
+    padding: 20px 270px;
+    margin: 20px;
+}
+
+.d-1 {
+    border-width: 6px;
+    border-color: yellow;
+    width: 97px;
+    margin-top: 5px;
+    margin-right: 20px;
+
+}
+
+/* section-3 */
+
+.f4 {
+    top: 127px;
+    left: -94px;
+    position: relative;
+    width: 214px;
+    border-radius: 10px;
+    box-shadow: -4px 5px 15px gray;
+    /* Added color and blur radius */
+}
+
+.f5 {
+    top: -137px;
+    left: 249px;
+    position: relative;
+    width: 214px;
+    border-radius: 10px;
+    box-shadow: -4px 5px 15px gray;
+    /* Added color and blur radius */
+}
